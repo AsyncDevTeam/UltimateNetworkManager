@@ -1,0 +1,5 @@
+main: fr.asynchronous.unm.UNMPlugin
+name: UltimateNetworkManager
+version: 0.1
+author: [Roytreo28, KingRider26]
+commands:

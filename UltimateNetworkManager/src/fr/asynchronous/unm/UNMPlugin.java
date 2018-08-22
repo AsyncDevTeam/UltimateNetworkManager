@@ -1,5 +1,11 @@
 package fr.asynchronous.unm;
 
-public class UNMPlugin {
+import net.md_5.bungee.api.plugin.Plugin;
 
+public class UNMPlugin extends Plugin {
+	
+	/* 
+	 * 
+	 */
+	
 }
