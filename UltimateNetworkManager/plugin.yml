@@ -1,0 +1,10 @@
+name: UltimateNetworkManager
+author: [Roytreo28, KingRider26]
+version: 0.1
+main: fr.asynchronous.unm.UNMPlugin
+description: Bukkit plugin
+website: http://roytreo28.ddns.net/asynchronous
+commands:
+  config:
+    description: Config commands
+    permission: op

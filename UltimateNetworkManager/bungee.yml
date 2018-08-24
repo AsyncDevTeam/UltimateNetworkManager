@@ -1,5 +1,7 @@
-main: fr.asynchronous.unm.UNMPlugin
+main: fr.asynchronous.unm.network.UNMPlugin
 name: UltimateNetworkManager
 version: 0.1
 author: [Roytreo28, KingRider26]
+description: Bungee system
+website: http://roytreo28.ddns.net/asynchronous
 commands:
